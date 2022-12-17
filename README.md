@@ -44,4 +44,5 @@ Apa saja yang ada?
     <a href="https://linkedin.com/in/mahisataruna24" target="blank"><img src="https://img.shields.io/badge/Mahisa_Taruna-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://instagram.com/mahisa.taruna" target="blank"><img src="https://img.shields.io/badge/Mahisa_Taruna-30302f?style=flat&logo=instagram" /></a>
     <a href="https://medium.com/@mahisataruna" target="blank"><img src="https://img.shields.io/badge/Mahisa_Taruna-30302f?style=flat&logo=medium" /></a>
+    <a href="https://kreapic.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Kreapic_Media-30302f?style=flat&logo=blogger" /></a>
 </p>
