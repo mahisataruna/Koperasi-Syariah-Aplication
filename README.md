@@ -1,6 +1,6 @@
 # Halo semuanya.
 
-Ini merupakan repository yang memuat source code dalam pembuatan Aplikasi Koperasi Syariah Berbasis Web. Aplikasi ini dibuat menggunakan framework CodeIgniter 3.
+Ini merupakan repository yang memuat source code dalam pembuatan Aplikasi Koperasi Syariah Berbasis Web. Aplikasi ini dibuat menggunakan framework <b>CodeIgniter 3.</b>
 
 # Apa saja yang ada?
 
