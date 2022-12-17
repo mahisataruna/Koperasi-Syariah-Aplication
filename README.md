@@ -13,15 +13,16 @@ Ini merupakan repository yang memuat source code dalam pembuatan Aplikasi Kopera
 Apa saja yang ada?
 </h2>
 
-<summary><strong>Pada aplikasi berbasis website ini kamu dapat membuat klasifikasi yang terdiri dari 3 user utama, yakni:</strong></summary>
 <details>
-    1. Pemilik
-    2. Administrator
-    3. Anggota
+<summary><strong>Pada aplikasi berbasis website ini kamu dapat membuat klasifikasi yang terdiri dari 3 user utama, yakni:</strong></summary>
+1. Pemilik
+2. Administrator
+3. Anggota
 </details>
 
-<summary><strong>Dari setiap user akan terdapat "ID" user dengan hak akses yang beragam, diantaranya Pemilik dan Admin dapat mengakses semua menu yang ada, sementara bagi user Anggota hanya akan bisa mengakses menu:</strong></summary>
 <details>
+<summary><strong>Dari setiap user akan terdapat "ID" user dengan hak akses yang beragam, diantaranya Pemilik dan Admin dapat mengakses semua menu yang ada, sementara bagi user Anggota hanya akan bisa mengakses menu:</strong></summary>
+
 1. Simpanan
 2. Pinjaman
 3. Infaq
@@ -31,9 +32,9 @@ Apa saja yang ada?
 
 
 <h2> Fitur apa saja yang ada?</h2>
-
-<summary><strong>Pada aplikasi berbasis website ini terdapat beberapa fitur umum dalam pengelolaan koperasi seperti "Simpanan, Pinjaman, Angsuran, dan Infaq". Sementara masih banyak fitur lainnya seperti:</strong></summary>
 <details>
+<summary><strong>Pada aplikasi berbasis website ini terdapat beberapa fitur umum dalam pengelolaan koperasi seperti "Simpanan, Pinjaman, Angsuran, dan Infaq". Sementara masih banyak fitur lainnya seperti:</strong></summary>
+
 1. Beranda user dan Admin/Pemilik
 2. Edit Profil
 3. Lainnya.
